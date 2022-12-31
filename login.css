@@ -33,7 +33,9 @@ h1{
     border:2.5px solid black;
     padding: 14px 10px;
     width:250px;
-    color:white;
+    color:black;
+    font-weight: 500;
+    font-size: medium;
     border-radius:24px;
     transition:0.25s;
 }
